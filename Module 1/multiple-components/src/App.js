@@ -9,6 +9,6 @@ function App() {
       <Card h2="Third card's h2" h3="Third card's h3"/>
     </div>
   );
-}
+};
 
 export default App;

@@ -7,6 +7,6 @@ function Card(props) {
             <h3>{props.h3}</h3>
         </div>
     );
-}
+};
 
 export default Card;
