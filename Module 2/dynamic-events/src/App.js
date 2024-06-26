@@ -1,3 +1,5 @@
+import React from 'react';
+
 function App() {
   function handleClick() { 
     let randomNum = Math.floor(Math.random() * 3) + 1;
